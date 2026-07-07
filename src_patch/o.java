@@ -729,7 +729,7 @@ public final class o {
    }
 
    static {
-      String[] var10000 = new String[]{"(金)", "(木)", "(水)", "(火)", "(土)"};
+      String[] var10000 = new String[]{"(Kim)", "(Mộc)", "(Thủy)", "(Hỏa)", "(Thổ)"};
       byte[][] var0 = new byte[][]{{1, 3, 2, 4}, {4, 0, 3, 2}, {3, 4, 1, 0}, {0, 2, 4, 1}, {2, 1, 0, 3}};
       new Vector(1);
       int[] var1 = new int[]{0, 6, 3, 5, 2, 1, 7, 4};

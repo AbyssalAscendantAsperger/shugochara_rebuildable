@@ -1,53 +1,53 @@
 id,zh_cn,vi_vn,char_len,utf8_len,occurrences
-JAVA_ZH_0001,上方向键,,4,12,a.java:255
-JAVA_ZH_0002,下方向键,,4,12,a.java:257
-JAVA_ZH_0003,左方向键,,4,12,a.java:259
-JAVA_ZH_0004,右方向键,,4,12,a.java:261
-JAVA_ZH_0005,数字键0,,4,10,a.java:263
-JAVA_ZH_0006,数字键1,,4,10,a.java:265
-JAVA_ZH_0007,数字键3,,4,10,a.java:267
-JAVA_ZH_0008,数字键5,,4,10,a.java:270
-JAVA_ZH_0009,数字键7,,4,10,a.java:272
-JAVA_ZH_0010,数字键9,,4,10,a.java:274
-JAVA_ZH_0011, * 键,,4,6,a.java:276
-JAVA_ZH_0012, # 键,,4,6,a.java:278
-JAVA_ZH_0013,左软键,,3,9,a.java:280
-JAVA_ZH_0014,右软键,,3,9,a.java:282
+JAVA_ZH_0001,上方向键,Phím Lên,4,12,a.java:255
+JAVA_ZH_0002,下方向键,Phím Xuống,4,12,a.java:257
+JAVA_ZH_0003,左方向键,Phím Trái,4,12,a.java:259
+JAVA_ZH_0004,右方向键,Phím Phải,4,12,a.java:261
+JAVA_ZH_0005,数字键0,Phím số 0,4,10,a.java:263
+JAVA_ZH_0006,数字键1,Phím số 1,4,10,a.java:265
+JAVA_ZH_0007,数字键3,Phím số 3,4,10,a.java:267
+JAVA_ZH_0008,数字键5,Phím số 5,4,10,a.java:270
+JAVA_ZH_0009,数字键7,Phím số 7,4,10,a.java:272
+JAVA_ZH_0010,数字键9,Phím số 9,4,10,a.java:274
+JAVA_ZH_0011, * 键,Phím *,4,6,a.java:276
+JAVA_ZH_0012, # 键,Phím #,4,6,a.java:278
+JAVA_ZH_0013,左软键,Phím mềm trái,3,9,a.java:280
+JAVA_ZH_0014,右软键,Phím mềm phải,3,9,a.java:282
 JAVA_ZH_0015,获得称号: ,,6,14,aa.java:447; aa.java:455; aa.java:463; aa.java:881; aa.java:888; aa.java:895; aa.java:902; aa.java:908; aa.java:1021; aa.java:1030; d.java:767; d.java:1047; d.java:1303; d.java:2517; v.java:276; v.java:291; w.java:32
 JAVA_ZH_0016,怒气不足,,4,12,aa.java:545; aa.java:1176; aa.java:1500
 JAVA_ZH_0017,升至,,2,6,aa.java:867
 JAVA_ZH_0018,级,,1,3,aa.java:867
 JAVA_ZH_0019,请按,,2,6,aa.java:1133
-JAVA_ZH_0020,确定,,2,6,aa.java:1133; ad.java:739; av.java:1158; d.java:804; d.java:812; d.java:816; d.java:820; d.java:1113; d.java:1116; d.java:1118; d.java:1123; d.java:1126; d.java:1629; d.java:1638; d.java:1642; d.java:1647; d.java:1655; d.java:1659; d.java:1668; d.java:1676; d.java:1680; d.java:1685; d.java:1694; d.java:1703; d.java:1712; d.java:1718; d.java:1722; d.java:1871; d.java:1900; d.java:2068; d.java:2076; d.java:2082; d.java:2278; d.java:2283; d.java:2550; d.java:2557; d.java:2561; d.java:2647; d.java:2653; d.java:2801; d.java:2805; d.java:3191; d.java:3218; g.java:104
+JAVA_ZH_0020,确定,Đồng ý,2,6,aa.java:1133; ad.java:739; av.java:1158; d.java:804; d.java:812; d.java:816; d.java:820; d.java:1113; d.java:1116; d.java:1118; d.java:1123; d.java:1126; d.java:1629; d.java:1638; d.java:1642; d.java:1647; d.java:1655; d.java:1659; d.java:1668; d.java:1676; d.java:1680; d.java:1685; d.java:1694; d.java:1703; d.java:1712; d.java:1718; d.java:1722; d.java:1871; d.java:1900; d.java:2068; d.java:2076; d.java:2082; d.java:2278; d.java:2283; d.java:2550; d.java:2557; d.java:2561; d.java:2647; d.java:2653; d.java:2801; d.java:2805; d.java:3191; d.java:3218; g.java:104
 JAVA_ZH_0021,当前地图不能攻击,,8,24,aa.java:1461
 JAVA_ZH_0022,技能未就绪,,5,15,aa.java:1494
 JAVA_ZH_0023,魔法不足,,4,12,aa.java:1507
 JAVA_ZH_0024,无敌效果结束,,6,18,aa.java:1778
 JAVA_ZH_0025,道,,1,3,ad.java:10
-JAVA_ZH_0026,继续游戏,,4,12,ad.java:59; av.java:82
-JAVA_ZH_0027,帮助,,2,6,ad.java:59; ad.java:165; ae.java:18; av.java:82; d.java:54
-JAVA_ZH_0028,返回主菜单,,5,15,ad.java:59; d.java:54
-JAVA_ZH_0029,关于,,2,6,ad.java:169; ae.java:18; av.java:82
-JAVA_ZH_0030,游戏已暂停,,5,15,ad.java:323
-JAVA_ZH_0031,按右软键继续,,6,18,ad.java:324
-JAVA_ZH_0032,返回,,2,6,ad.java:474; ad.java:738; av.java:1158; av.java:1201; av.java:1263; d.java:1841
-JAVA_ZH_0033,你确定访问游戏频道,,9,27,ad.java:639
-JAVA_ZH_0034,并退出游戏?,,6,16,ad.java:640
-JAVA_ZH_0035,否,,1,3,ad.java:642; ad.java:705; ad.java:796; av.java:1030; d.java:3245
-JAVA_ZH_0036,是,,1,3,ad.java:644; ad.java:703; ad.java:795; av.java:1029; d.java:3245
-JAVA_ZH_0037,更多精彩游戏,,6,18,ad.java:664
-JAVA_ZH_0038,尽在游戏频道,,6,18,ad.java:665
-JAVA_ZH_0039,确认,,2,6,ad.java:668; av.java:1193; d.java:3012; d.java:3195; d.java:3220
-JAVA_ZH_0040,退出,,2,6,ad.java:670; av.java:82
-JAVA_ZH_0041,确认退出,,4,12,ad.java:701
-JAVA_ZH_0042,是否返回主菜单,,7,21,ad.java:794
+JAVA_ZH_0026,继续游戏,Tiếp tục,4,12,ad.java:59; av.java:82
+JAVA_ZH_0027,帮助,Trợ giúp,2,6,ad.java:59; ad.java:165; ae.java:18; av.java:82; d.java:54
+JAVA_ZH_0028,返回主菜单,Menu chính,5,15,ad.java:59; d.java:54
+JAVA_ZH_0029,关于,Giới thiệu,2,6,ad.java:169; ae.java:18; av.java:82
+JAVA_ZH_0030,游戏已暂停,Tạm dừng game,5,15,ad.java:323
+JAVA_ZH_0031,按右软键继续,Phím phải để tiếp tục,6,18,ad.java:324
+JAVA_ZH_0032,返回,Trở về,2,6,ad.java:474; ad.java:738; av.java:1158; av.java:1201; av.java:1263; d.java:1841
+JAVA_ZH_0033,你确定访问游戏频道,Bạn muốn truy cập kênh game,9,27,ad.java:639
+JAVA_ZH_0034,并退出游戏?,và thoát game?,6,16,ad.java:640
+JAVA_ZH_0035,否,Không,1,3,ad.java:642; ad.java:705; ad.java:796; av.java:1030; d.java:3245
+JAVA_ZH_0036,是,Có,1,3,ad.java:644; ad.java:703; ad.java:795; av.java:1029; d.java:3245
+JAVA_ZH_0037,更多精彩游戏,Nhiều game hay hơn,6,18,ad.java:664
+JAVA_ZH_0038,尽在游戏频道,tại kênh game xjoys,6,18,ad.java:665
+JAVA_ZH_0039,确认,Đồng ý,2,6,ad.java:668; av.java:1193; d.java:3012; d.java:3195; d.java:3220
+JAVA_ZH_0040,退出,Thoát,2,6,ad.java:670; av.java:82
+JAVA_ZH_0041,确认退出,Xác nhận thoát,4,12,ad.java:701
+JAVA_ZH_0042,是否返回主菜单,Trở về menu chính?,7,21,ad.java:794
 JAVA_ZH_0043,宽,,1,3,ae.java:10
-JAVA_ZH_0044,初入江湖,,4,12,ae.java:18
-JAVA_ZH_0045,再征沙场,,4,12,ae.java:18
-JAVA_ZH_0046,卸甲归田,,4,12,ae.java:18
+JAVA_ZH_0044,初入江湖,Game mới,4,12,ae.java:18
+JAVA_ZH_0045,再征沙场,Chơi tiếp,4,12,ae.java:18
+JAVA_ZH_0046,卸甲归田,Thoát game,4,12,ae.java:18
 JAVA_ZH_0047,支付密码,,4,12,af.java:428
 JAVA_ZH_0048,折,,1,3,af.java:487
-JAVA_ZH_0049, U点,,3,5,af.java:490; af.java:861; af.java:862
+JAVA_ZH_0049, U点,U-Điểm,3,5,af.java:490; af.java:861; af.java:862
 JAVA_ZH_0050,优视科技 版权所有,,9,25,af.java:506; af.java:541; af.java:580; af.java:1541
 JAVA_ZH_0051,正在初始化数据，请稍等,,11,33,af.java:682
 JAVA_ZH_0052,(发送短信：,,6,16,af.java:820
@@ -86,8 +86,8 @@ JAVA_ZH_0084,强化装备,,4,12,ai.java:2085
 JAVA_ZH_0085,跳过,,2,6,ai.java:2410
 JAVA_ZH_0086,你看到我说明掉落物品类型出问题了:),,18,50,an.java:48
 JAVA_ZH_0087,金,,1,3,an.java:163; c.java:128
-JAVA_ZH_0088,保存密码？,,5,15,as.java:1508
-JAVA_ZH_0089,按“确定”键返回。,,9,27,as.java:1605
+JAVA_ZH_0088,保存密码？,Lưu mật khẩu?,5,15,as.java:1508
+JAVA_ZH_0089,按“确定”键返回。,Nhấn “Đồng ý” để trở về.,9,27,as.java:1605
 JAVA_ZH_0090,新游戏,,3,9,av.java:82
 JAVA_ZH_0091,更多游戏,,4,12,av.java:82
 JAVA_ZH_0092,音乐,,2,6,av.java:82
@@ -106,12 +106,12 @@ JAVA_ZH_0104,没有有效的存档！,,8,24,av.java:1193
 JAVA_ZH_0105,音乐|,,3,7,av.java:1238; av.java:1254
 JAVA_ZH_0106,开,,1,3,av.java:1238; av.java:1254
 JAVA_ZH_0107,关,,1,3,av.java:1238; av.java:1254
-JAVA_ZH_0108,切换,,2,6,av.java:1263
+JAVA_ZH_0108,切换,Chuyển đổi,2,6,av.java:1263
 JAVA_ZH_0109,友情提示,,4,12,av.java:1344
 JAVA_ZH_0110,游戏暂停,,4,12,av.java:1368
 JAVA_ZH_0111,请按导航键中键或按5键返回游戏,,15,43,av.java:1369
 JAVA_ZH_0112,请按“*”键使用,,8,22,av.java:1620
-JAVA_ZH_0113,生命之水,,4,12,av.java:1621; m.java:9
+JAVA_ZH_0113,生命之水,Nước sự sống,4,12,av.java:1621; m.java:9
 JAVA_ZH_0114,生命之水不足,,6,18,av.java:1623
 JAVA_ZH_0115,请按“*”键前往商店购买,,12,34,av.java:1625
 JAVA_ZH_0116,按#键返回主菜单,,8,22,av.java:1639
@@ -156,7 +156,7 @@ JAVA_ZH_0154,已经接受该任务,,7,21,d.java:804
 JAVA_ZH_0155,该任务已经完成,,7,21,d.java:812
 JAVA_ZH_0156,支线任务最多接3个,,9,25,d.java:816
 JAVA_ZH_0157,接受任务？,,5,15,d.java:820
-JAVA_ZH_0158,取消,,2,6,d.java:820; d.java:1113; d.java:1123; d.java:1900; d.java:2076; d.java:2278; d.java:2653; d.java:2801
+JAVA_ZH_0158,取消,Hủy,2,6,d.java:820; d.java:1113; d.java:1123; d.java:1900; d.java:2076; d.java:2278; d.java:2653; d.java:2801
 JAVA_ZH_0159,已经完成,,4,12,d.java:879
 JAVA_ZH_0160,选择游戏难度：,,7,21,d.java:949
 JAVA_ZH_0161,确认购买,,4,12,d.java:1113; d.java:1123
@@ -205,136 +205,136 @@ JAVA_ZH_0203,使用,,2,6,d.java:3280; d.java:3281; d.java:3282; d.java:3283
 JAVA_ZH_0204,快捷,,2,6,d.java:3280
 JAVA_ZH_0205,丢弃,,2,6,d.java:3280; d.java:3281; d.java:3282; d.java:3283; d.java:3284
 JAVA_ZH_0206,合并,,2,6,d.java:3281; d.java:3283
-JAVA_ZH_0207,登录,,2,6,d.java:3281
+JAVA_ZH_0207,登录,Đăng nhập,2,6,d.java:3281
 JAVA_ZH_0208,详细,,2,6,d.java:3281; d.java:3282; d.java:3283; d.java:3284
-JAVA_ZH_0209,拳挑起,,3,9,e.java:3; e.java:3
-JAVA_ZH_0210,熊咆哮,,3,9,e.java:3; e.java:3
-JAVA_ZH_0211,暗黑之光,,4,12,e.java:3; e.java:3
-JAVA_ZH_0212,一闪·破,,4,11,e.java:3; e.java:3
-JAVA_ZH_0213,耐性,,2,6,e.java:3; e.java:3
-JAVA_ZH_0214,魔力,,2,6,e.java:3; e.java:3
-JAVA_ZH_0215,会心,,2,6,e.java:3; e.java:3
-JAVA_ZH_0216,忍耐,,2,6,e.java:3; e.java:3
-JAVA_ZH_0217,奋力的用拳对前方的地面发动猛烈震击，能将敌人挑起在半空中。,,29,87,e.java:7
-JAVA_ZH_0218,聚剑气、拳道于一体发动熊咆哮，震飞附近的所有敌人并造成大量伤害。,,32,96,e.java:8
-JAVA_ZH_0219,聚集全身的剑气发动黑暗攻击，对附近大范围的敌人造成大量伤害。,,30,90,e.java:9
-JAVA_ZH_0220,成功防御敌人攻击，将怒气化形，以极速斩出一剑，造成普通攻击多倍以上伤害。,,36,108,e.java:10
-JAVA_ZH_0221,通过提升自己的力量，强化身体，增加生命最大值和基础攻击力。,,29,87,e.java:11
-JAVA_ZH_0222,通过提升自己的精神力量，增加魔力最大值。,,20,60,e.java:12
-JAVA_ZH_0223,通过提高自己的剑术，增加暴击概率。,,17,51,e.java:13
-JAVA_ZH_0224,通过提升自己的斗气，增加吸收伤害的能力。,,20,60,e.java:14
-JAVA_ZH_0225,追加连击技,,5,15,e.java:16
-JAVA_ZH_0226,射出巨大的冰冻之箭，对一条线上的敌人造成冰冻伤害,,24,72,e.java:16
-JAVA_ZH_0227,向天上射出冰之箭，对自身周围全部敌人造成冰冻伤害,,24,72,e.java:16
-JAVA_ZH_0228,升级需要,,4,12,e.java:125
-JAVA_ZH_0229,个技能点，&,,6,16,e.java:125
-JAVA_ZH_0230,尚未习得&,,5,13,e.java:129
-JAVA_ZH_0231,当前级别,,4,12,e.java:131
-JAVA_ZH_0232,攻击力+,,4,10,e.java:139; e.java:189; t.java:359
-JAVA_ZH_0233,生命上限+,,5,13,e.java:151; e.java:201; t.java:359
-JAVA_ZH_0234,魔力上限+,,5,13,e.java:154; e.java:204; t.java:359
-JAVA_ZH_0235,暴击率+,,4,10,e.java:157; e.java:207; t.java:359
-JAVA_ZH_0236,伤害吸收+,,5,13,e.java:160; e.java:210
-JAVA_ZH_0237,伤害+,,3,7,e.java:163; e.java:213
-JAVA_ZH_0238,冷却,,2,6,e.java:166; e.java:216
-JAVA_ZH_0239,秒，&,,3,7,e.java:166; e.java:216
-JAVA_ZH_0240,消耗魔力,,4,12,e.java:169; e.java:219
-JAVA_ZH_0241,点，&,,3,7,e.java:169; e.java:219
-JAVA_ZH_0242,消耗一定的怒气，&,,9,25,e.java:172; e.java:222
-JAVA_ZH_0243,已经升至最高级&,,8,22,e.java:179
-JAVA_ZH_0244,下一级别,,4,12,e.java:181
+JAVA_ZH_0209,拳挑起,Khâu Quyền,3,9,e.java:3; e.java:3
+JAVA_ZH_0210,熊咆哮,Hùng Gầm,3,9,e.java:3; e.java:3
+JAVA_ZH_0211,暗黑之光,Ám Hắc Quang,4,12,e.java:3; e.java:3
+JAVA_ZH_0212,一闪·破,Nhất Kiếm Phá,4,11,e.java:3; e.java:3
+JAVA_ZH_0213,耐性,Sức Bền,2,6,e.java:3; e.java:3
+JAVA_ZH_0214,魔力,Ma Lực,2,6,e.java:3; e.java:3
+JAVA_ZH_0215,会心,Chí Mạng,2,6,e.java:3; e.java:3
+JAVA_ZH_0216,忍耐,Chống Chịu,2,6,e.java:3; e.java:3
+JAVA_ZH_0217,奋力的用拳对前方的地面发动猛烈震击，能将敌人挑起在半空中。,"Dùng hết sức đấm mạnh xuống đất phía trước, hất tung kẻ địch lên không trung.",29,87,e.java:7
+JAVA_ZH_0218,聚剑气、拳道于一体发动熊咆哮，震飞附近的所有敌人并造成大量伤害。,"Tụ kiếm khí và quyền đạo phát động gấu gầm rống, hất văng mọi kẻ địch xung quanh và gây sát thương lớn.",32,96,e.java:8
+JAVA_ZH_0219,聚集全身的剑气发动黑暗攻击，对附近大范围的敌人造成大量伤害。,"Tụ toàn bộ kiếm khí phát động đòn tấn công bóng tối, gây sát thương lớn trên diện rộng xung quanh.",30,90,e.java:9
+JAVA_ZH_0220,成功防御敌人攻击，将怒气化形，以极速斩出一剑，造成普通攻击多倍以上伤害。,"Phòng thủ thành công đòn địch, hóa nộ khí thành kiếm, chém ra tốc độ cực nhanh, gây sát thương gấp nhiều lần.",36,108,e.java:10
+JAVA_ZH_0221,通过提升自己的力量，强化身体，增加生命最大值和基础攻击力。,"Nâng cao sức mạnh bản thân, cường hóa cơ thể, tăng sinh lực tối đa và lực tấn công cơ bản.",29,87,e.java:11
+JAVA_ZH_0222,通过提升自己的精神力量，增加魔力最大值。,"Nâng cao sức mạnh tinh thần bản thân, tăng ma lực tối đa.",20,60,e.java:12
+JAVA_ZH_0223,通过提高自己的剑术，增加暴击概率。,"Nâng cao kiếm thuật bản thân, tăng tỷ lệ chí mạng.",17,51,e.java:13
+JAVA_ZH_0224,通过提升自己的斗气，增加吸收伤害的能力。,"Nâng cao đấu khí bản thân, tăng khả năng hấp thụ sát thương.",20,60,e.java:14
+JAVA_ZH_0225,追加连击技,Kỹ năng liên kích,5,15,e.java:16
+JAVA_ZH_0226,射出巨大的冰冻之箭，对一条线上的敌人造成冰冻伤害,"Bắn mũi tên băng khổng lồ, gây sát thương băng cho kẻ địch trên một đường thẳng",24,72,e.java:16
+JAVA_ZH_0227,向天上射出冰之箭，对自身周围全部敌人造成冰冻伤害,"Bắn mũi tên băng lên trời, gây sát thương băng cho toàn bộ kẻ địch xung quanh",24,72,e.java:16
+JAVA_ZH_0228,升级需要,Nâng cấp cần,4,12,e.java:125
+JAVA_ZH_0229,个技能点，&,"điểm kỹ năng, &",6,16,e.java:125
+JAVA_ZH_0230,尚未习得&,Chưa học&,5,13,e.java:129
+JAVA_ZH_0231,当前级别,Cấp hiện tại,4,12,e.java:131
+JAVA_ZH_0232,攻击力+,Tấn công +,4,10,e.java:139; e.java:189; t.java:359
+JAVA_ZH_0233,生命上限+,HP tối đa +,5,13,e.java:151; e.java:201; t.java:359
+JAVA_ZH_0234,魔力上限+,MP tối đa +,5,13,e.java:154; e.java:204; t.java:359
+JAVA_ZH_0235,暴击率+,Chí mạng +,4,10,e.java:157; e.java:207; t.java:359
+JAVA_ZH_0236,伤害吸收+,Hấp thụ ST +,5,13,e.java:160; e.java:210
+JAVA_ZH_0237,伤害+,Sát thương +,3,7,e.java:163; e.java:213
+JAVA_ZH_0238,冷却,Hồi chiêu,2,6,e.java:166; e.java:216
+JAVA_ZH_0239,秒，&,"giây, &",3,7,e.java:166; e.java:216
+JAVA_ZH_0240,消耗魔力,Tiêu hao MP,4,12,e.java:169; e.java:219
+JAVA_ZH_0241,点，&,"điểm, &",3,7,e.java:169; e.java:219
+JAVA_ZH_0242,消耗一定的怒气，&,"Tiêu hao lượng nhất định nộ khí, &",9,25,e.java:172; e.java:222
+JAVA_ZH_0243,已经升至最高级&,Đã đạt cấp tối đa&,8,22,e.java:179
+JAVA_ZH_0244,下一级别,Cấp tiếp theo,4,12,e.java:181
 JAVA_ZH_0245,地图加载错误：ID=,,10,24,j.java:948
 JAVA_ZH_0246,，不在当前地图缓存中!,,11,31,j.java:948
 JAVA_ZH_0247,文本ID不存在,,7,17,k.java:132
 JAVA_ZH_0248,ui数据已经被逻辑删除,,11,29,k.java:151
 JAVA_ZH_0249,UIdata::drawSLAni:动画ID不存在1,,26,36,k.java:217
 JAVA_ZH_0250,UIdata::drawUIAni:动画ID不存在2,,26,36,k.java:257; k.java:290
-JAVA_ZH_0251,血瓶,,2,6,m.java:7
-JAVA_ZH_0252,魔瓶,,2,6,m.java:8
-JAVA_ZH_0253,怒气石,,3,9,m.java:10
-JAVA_ZH_0254,攻击石,,3,9,m.java:11
-JAVA_ZH_0255,防御石,,3,9,m.java:12
-JAVA_ZH_0256,宠物饲料,,4,12,m.java:13
-JAVA_ZH_0257,鲜花,,2,6,m.java:14
-JAVA_ZH_0258,魔魂石,,3,9,m.java:15
-JAVA_ZH_0259,重修书,,3,9,m.java:16
-JAVA_ZH_0260,技能书,,3,9,m.java:17
-JAVA_ZH_0261,蟹钳,,2,6,m.java:18
-JAVA_ZH_0262,星光,,2,6,m.java:19
-JAVA_ZH_0263,海螺壳,,3,9,m.java:20
-JAVA_ZH_0264,青蛙心,,3,9,m.java:21
-JAVA_ZH_0265,魂石,,2,6,m.java:22
-JAVA_ZH_0266,刀刃,,2,6,m.java:23
-JAVA_ZH_0267,蛇胆,,2,6,m.java:24
-JAVA_ZH_0268,魔刃,,2,6,m.java:25
-JAVA_ZH_0269,冰晶,,2,6,m.java:26
-JAVA_ZH_0270,魔心,,2,6,m.java:27
-JAVA_ZH_0271,炙热之心,,4,12,m.java:28
-JAVA_ZH_0272,通天眼,,3,9,m.java:29
-JAVA_ZH_0273,冰晶锁,,3,9,m.java:30
-JAVA_ZH_0274,封魔印,,3,9,m.java:31
-JAVA_ZH_0275,金钱,,2,6,m.java:32; u.java:14
-JAVA_ZH_0276,回复HP30%。,,8,14,m.java:35
-JAVA_ZH_0277,回复MP30%。,,8,14,m.java:36
-JAVA_ZH_0278,死亡后使用可满状态复活。,,12,36,m.java:37
-JAVA_ZH_0279,使用后怒气全满。,,8,24,m.java:38
-JAVA_ZH_0280,使用后攻击永久+2。,,10,26,m.java:39
-JAVA_ZH_0281,使用后防御永久+1。,,10,26,m.java:40
-JAVA_ZH_0282,使用后宠物经验提升20。,,12,32,m.java:41
-JAVA_ZH_0283,使用后劳拉的好感度+10。,,13,33,m.java:42
-JAVA_ZH_0284,升级宠物所需的灵石。,,10,30,m.java:43
-JAVA_ZH_0285,可还原技能点，重修技能。,,12,36,m.java:44
-JAVA_ZH_0286,使用后技能点+1。,,9,23,m.java:45
-JAVA_ZH_0287,变异蟹的钳子，非常坚硬。,,12,36,m.java:46
-JAVA_ZH_0288,海星星掉落的外壳，有特殊用途。,,15,45,m.java:47
-JAVA_ZH_0289,海螺的外壳，常作为打造的材料。,,15,45,m.java:48
-JAVA_ZH_0290,青蛙的心，具有明目的作用。,,13,39,m.java:49
-JAVA_ZH_0291,鬼魂的结晶。,,6,18,m.java:50
-JAVA_ZH_0292,幻灵界的刀刃，升级武器的材料。,,15,45,m.java:51
-JAVA_ZH_0293,蛇胆。,,3,9,m.java:52
-JAVA_ZH_0294,魔兔的武器，锋利无比。,,11,33,m.java:53
-JAVA_ZH_0295,极寒的冰石，具有神秘的能量。,,14,42,m.java:54
-JAVA_ZH_0296,灯笼怪掉落的灯芯，充满魔之力。,,15,45,m.java:55
-JAVA_ZH_0297,扎昆的心脏，充满强大的力量。,,14,42,m.java:56
-JAVA_ZH_0298,进入夜色岛所必需的任务物品，可看穿幻灵的所有伪装。,,25,75,m.java:57
-JAVA_ZH_0299,进入扎昆山脉所必需的任务物品，可防止酷热熔岩造成的伤害。,,28,84,m.java:58
-JAVA_ZH_0300,进入地下王宫所必需的任务物品。,,15,45,m.java:59
-JAVA_ZH_0301,打造 通天眼 & 进入夜色岛所必需的任务物品，可看穿幻灵的所有伪装。 & 需要材料  星光20 海螺壳20 青蛙心20 魔刃2 金钱2000,,70,162,m.java:62
-JAVA_ZH_0302,打造 冰晶锁 & 进入扎昆山脉所必需的任务物品，可防止酷热熔岩造成的伤害。 & 需要材料 冰晶5 刀刃4 蛇胆3 金钱1000,,63,153,m.java:63
-JAVA_ZH_0303,打造 封魔印 & 进入地下王宫所必需的任务物品。 & 需要材料  魔心50 刀刃5 蛇胆5 金钱5000,,52,116,m.java:64
-JAVA_ZH_0304,生命+ ,,4,8,m.java:67
-JAVA_ZH_0305,魔法+ ,,4,8,m.java:67
-JAVA_ZH_0306,降低50%的速度，持续3秒,,13,31,m.java:243
-JAVA_ZH_0307,降低50%的速度，持续6秒,,13,31,m.java:244
-JAVA_ZH_0308,降低50%的速度，持续9秒,,13,31,m.java:245
-JAVA_ZH_0309,降低50%的速度，持续14秒,,14,32,m.java:246
-JAVA_ZH_0310,使主角眩晕2秒,,7,19,m.java:247
-JAVA_ZH_0311,使主角眩晕3秒,,7,19,m.java:248
-JAVA_ZH_0312,使主角眩晕5秒,,7,19,m.java:249
-JAVA_ZH_0313,使主角眩晕8秒,,7,19,m.java:250
-JAVA_ZH_0314,使主角每秒中毒2点血，持续15秒,,16,42,m.java:251
-JAVA_ZH_0315,使主角每秒中毒5点血，持续30秒,,16,42,m.java:252
-JAVA_ZH_0316,使主角每秒中毒10点血，持续50秒,,17,43,m.java:253
-JAVA_ZH_0317,使主角每秒中毒15点血，持续80秒,,17,43,m.java:254
-JAVA_ZH_0318,原效果减2点时间,,8,22,m.java:255; m.java:260
-JAVA_ZH_0319,原效果减4点时间,,8,22,m.java:256
-JAVA_ZH_0320,原效果减6点时间,,8,22,m.java:257; m.java:262
-JAVA_ZH_0321,原效果减11点时间,,9,23,m.java:258
-JAVA_ZH_0322,原效果减1点时间,,8,22,m.java:259
-JAVA_ZH_0323,原效果减3点时间,,8,22,m.java:261
-JAVA_ZH_0324,原效果减1点伤害，6点时间,,13,35,m.java:263
-JAVA_ZH_0325,原效果减3点伤害，15点时间,,14,36,m.java:264
-JAVA_ZH_0326,原效果减6点伤害，30点时间,,14,36,m.java:265
-JAVA_ZH_0327,原效果减10点伤害，60点时间,,15,37,m.java:266
-JAVA_ZH_0328,(金),,3,5,o.java:732
-JAVA_ZH_0329,(木),,3,5,o.java:732
-JAVA_ZH_0330,(水),,3,5,o.java:732
-JAVA_ZH_0331,(火),,3,5,o.java:732
-JAVA_ZH_0332,(土),,3,5,o.java:732
-JAVA_ZH_0333,只需4元，即可激活正版（您需要发送2条短信完成支付，信息费2元/条，不含通信费）,,40,112,q.java:85
-JAVA_ZH_0334,钱不够花，仅需2元，就可立即获得1000金币。,,23,59,q.java:86
-JAVA_ZH_0335,打怪升级太慢，仅需2元，就可开启双倍经验。,,21,61,q.java:87
-JAVA_ZH_0336,想原地复活，并且满血满魔吗？仅需1元就可以实现你的愿望。,,28,82,q.java:88
+JAVA_ZH_0251,血瓶,Bình máu,2,6,m.java:7
+JAVA_ZH_0252,魔瓶,Bình ma lực,2,6,m.java:8
+JAVA_ZH_0253,怒气石,Đá nộ khí,3,9,m.java:10
+JAVA_ZH_0254,攻击石,Đá tấn công,3,9,m.java:11
+JAVA_ZH_0255,防御石,Đá phòng thủ,3,9,m.java:12
+JAVA_ZH_0256,宠物饲料,Thức ăn thú cưng,4,12,m.java:13
+JAVA_ZH_0257,鲜花,Hoa tươi,2,6,m.java:14
+JAVA_ZH_0258,魔魂石,Đá ma hồn,3,9,m.java:15
+JAVA_ZH_0259,重修书,Sách tẩy điểm,3,9,m.java:16
+JAVA_ZH_0260,技能书,Sách kỹ năng,3,9,m.java:17
+JAVA_ZH_0261,蟹钳,Càng cua,2,6,m.java:18
+JAVA_ZH_0262,星光,Ánh sao,2,6,m.java:19
+JAVA_ZH_0263,海螺壳,Vỏ ốc biển,3,9,m.java:20
+JAVA_ZH_0264,青蛙心,Tim ếch,3,9,m.java:21
+JAVA_ZH_0265,魂石,Hồn thạch,2,6,m.java:22
+JAVA_ZH_0266,刀刃,Lưỡi dao,2,6,m.java:23
+JAVA_ZH_0267,蛇胆,Mật rắn,2,6,m.java:24
+JAVA_ZH_0268,魔刃,Ma nhận,2,6,m.java:25
+JAVA_ZH_0269,冰晶,Băng tinh,2,6,m.java:26
+JAVA_ZH_0270,魔心,Ma tâm,2,6,m.java:27
+JAVA_ZH_0271,炙热之心,Tim rực lửa,4,12,m.java:28
+JAVA_ZH_0272,通天眼,Thông thiên nhãn,3,9,m.java:29
+JAVA_ZH_0273,冰晶锁,Khóa băng tinh,3,9,m.java:30
+JAVA_ZH_0274,封魔印,Phong ma ấn,3,9,m.java:31
+JAVA_ZH_0275,金钱,Tiền vàng,2,6,m.java:32; u.java:14
+JAVA_ZH_0276,回复HP30%。,Hồi 30% HP.,8,14,m.java:35
+JAVA_ZH_0277,回复MP30%。,Hồi 30% MP.,8,14,m.java:36
+JAVA_ZH_0278,死亡后使用可满状态复活。,Dùng khi chết để hồi sinh đầy trạng thái.,12,36,m.java:37
+JAVA_ZH_0279,使用后怒气全满。,Dùng hồi đầy 100% nộ khí.,8,24,m.java:38
+JAVA_ZH_0280,使用后攻击永久+2。,Dùng tăng vĩnh viễn +2 Tấn công.,10,26,m.java:39
+JAVA_ZH_0281,使用后防御永久+1。,Dùng tăng vĩnh viễn +1 Phòng thủ.,10,26,m.java:40
+JAVA_ZH_0282,使用后宠物经验提升20。,Dùng tăng 20 kinh nghiệm thú cưng.,12,32,m.java:41
+JAVA_ZH_0283,使用后劳拉的好感度+10。,Dùng tăng +10 độ hảo cảm của Laura.,13,33,m.java:42
+JAVA_ZH_0284,升级宠物所需的灵石。,Linh thạch cần để nâng cấp thú cưng.,10,30,m.java:43
+JAVA_ZH_0285,可还原技能点，重修技能。,Tẩy điểm kỹ năng để cộng lại từ đầu.,12,36,m.java:44
+JAVA_ZH_0286,使用后技能点+1。,Dùng nhận ngay +1 điểm kỹ năng.,9,23,m.java:45
+JAVA_ZH_0287,变异蟹的钳子，非常坚硬。,"Càng của cua đột biến, cực kỳ cứng chắc.",12,36,m.java:46
+JAVA_ZH_0288,海星星掉落的外壳，有特殊用途。,"Vỏ rơi ra từ sao biển, có công dụng đặc biệt.",15,45,m.java:47
+JAVA_ZH_0289,海螺的外壳，常作为打造的材料。,"Vỏ ốc biển, thường dùng làm nguyên liệu chế tạo.",15,45,m.java:48
+JAVA_ZH_0290,青蛙的心，具有明目的作用。,"Tim ếch, có tác dụng làm sáng mắt.",13,39,m.java:49
+JAVA_ZH_0291,鬼魂的结晶。,Kết tinh của u hồn.,6,18,m.java:50
+JAVA_ZH_0292,幻灵界的刀刃，升级武器的材料。,"Lưỡi dao Ảo Linh Giới, nguyên liệu nâng cấp vũ khí.",15,45,m.java:51
+JAVA_ZH_0293,蛇胆。,Mật rắn.,3,9,m.java:52
+JAVA_ZH_0294,魔兔的武器，锋利无比。,"Vũ khí của ma thỏ, vô cùng sắc bén.",11,33,m.java:53
+JAVA_ZH_0295,极寒的冰石，具有神秘的能量。,"Băng thạch cực hàn, mang năng lượng thần bí.",14,42,m.java:54
+JAVA_ZH_0296,灯笼怪掉落的灯芯，充满魔之力。,"Tim đèn rơi từ quái lồng đèn, tràn đầy ma lực.",15,45,m.java:55
+JAVA_ZH_0297,扎昆的心脏，充满强大的力量。,"Trái tim của Zakum, chứa đựng sức mạnh vô biên.",14,42,m.java:56
+JAVA_ZH_0298,进入夜色岛所必需的任务物品，可看穿幻灵的所有伪装。,"Vật phẩm nhiệm vụ vào Đảo Dạ Sắc, nhìn thấu mọi ngụy trang của Ảo Linh.",25,75,m.java:57
+JAVA_ZH_0299,进入扎昆山脉所必需的任务物品，可防止酷热熔岩造成的伤害。,"Vật phẩm nhiệm vụ vào Dãy núi Zakum, chống sát thương từ dung nham nóng rực.",28,84,m.java:58
+JAVA_ZH_0300,进入地下王宫所必需的任务物品。,Vật phẩm nhiệm vụ cần để vào Vương cung dưới lòng đất.,15,45,m.java:59
+JAVA_ZH_0301,打造 通天眼 & 进入夜色岛所必需的任务物品，可看穿幻灵的所有伪装。 & 需要材料  星光20 海螺壳20 青蛙心20 魔刃2 金钱2000,"Chế tạo Thông thiên nhãn & Vật phẩm vào Đảo Dạ Sắc, nhìn thấu ngụy trang Ảo Linh. & Yêu cầu: Ánh sao 20, Vỏ ốc biển 20, Tim ếch 20, Ma nhận 2, Tiền vàng 2000",70,162,m.java:62
+JAVA_ZH_0302,打造 冰晶锁 & 进入扎昆山脉所必需的任务物品，可防止酷热熔岩造成的伤害。 & 需要材料 冰晶5 刀刃4 蛇胆3 金钱1000,"Chế tạo Khóa băng tinh & Vật phẩm vào Dãy núi Zakum, chống sát thương dung nham. & Yêu cầu: Băng tinh 5, Lưỡi dao 4, Mật rắn 3, Tiền vàng 1000",63,153,m.java:63
+JAVA_ZH_0303,打造 封魔印 & 进入地下王宫所必需的任务物品。 & 需要材料  魔心50 刀刃5 蛇胆5 金钱5000,"Chế tạo Phong ma ấn & Vật phẩm cần để vào Vương cung dưới lòng đất. & Yêu cầu: Ma tâm 50, Lưỡi dao 5, Mật rắn 5, Tiền vàng 5000",52,116,m.java:64
+JAVA_ZH_0304,生命+ ,HP +,4,8,m.java:67
+JAVA_ZH_0305,魔法+ ,MP +,4,8,m.java:67
+JAVA_ZH_0306,降低50%的速度，持续3秒,"Giảm 50% tốc độ, duy trì 3 giây",13,31,m.java:243
+JAVA_ZH_0307,降低50%的速度，持续6秒,"Giảm 50% tốc độ, duy trì 6 giây",13,31,m.java:244
+JAVA_ZH_0308,降低50%的速度，持续9秒,"Giảm 50% tốc độ, duy trì 9 giây",13,31,m.java:245
+JAVA_ZH_0309,降低50%的速度，持续14秒,"Giảm 50% tốc độ, duy trì 14 giây",14,32,m.java:246
+JAVA_ZH_0310,使主角眩晕2秒,Làm choáng nhân vật trong 2 giây,7,19,m.java:247
+JAVA_ZH_0311,使主角眩晕3秒,Làm choáng nhân vật trong 3 giây,7,19,m.java:248
+JAVA_ZH_0312,使主角眩晕5秒,Làm choáng nhân vật trong 5 giây,7,19,m.java:249
+JAVA_ZH_0313,使主角眩晕8秒,Làm choáng nhân vật trong 8 giây,7,19,m.java:250
+JAVA_ZH_0314,使主角每秒中毒2点血，持续15秒,"Trúng độc mất 2 HP/giây, duy trì 15 giây",16,42,m.java:251
+JAVA_ZH_0315,使主角每秒中毒5点血，持续30秒,"Trúng độc mất 5 HP/giây, duy trì 30 giây",16,42,m.java:252
+JAVA_ZH_0316,使主角每秒中毒10点血，持续50秒,"Trúng độc mất 10 HP/giây, duy trì 50 giây",17,43,m.java:253
+JAVA_ZH_0317,使主角每秒中毒15点血，持续80秒,"Trúng độc mất 15 HP/giây, duy trì 80 giây",17,43,m.java:254
+JAVA_ZH_0318,原效果减2点时间,Giảm 2 giây thời gian hiệu ứng,8,22,m.java:255; m.java:260
+JAVA_ZH_0319,原效果减4点时间,Giảm 4 giây thời gian hiệu ứng,8,22,m.java:256
+JAVA_ZH_0320,原效果减6点时间,Giảm 6 giây thời gian hiệu ứng,8,22,m.java:257; m.java:262
+JAVA_ZH_0321,原效果减11点时间,Giảm 11 giây thời gian hiệu ứng,9,23,m.java:258
+JAVA_ZH_0322,原效果减1点时间,Giảm 1 giây thời gian hiệu ứng,8,22,m.java:259
+JAVA_ZH_0323,原效果减3点时间,Giảm 3 giây thời gian hiệu ứng,8,22,m.java:261
+JAVA_ZH_0324,原效果减1点伤害，6点时间,"Giảm 1 sát thương, giảm 6 giây hiệu ứng",13,35,m.java:263
+JAVA_ZH_0325,原效果减3点伤害，15点时间,"Giảm 3 sát thương, giảm 15 giây hiệu ứng",14,36,m.java:264
+JAVA_ZH_0326,原效果减6点伤害，30点时间,"Giảm 6 sát thương, giảm 30 giây hiệu ứng",14,36,m.java:265
+JAVA_ZH_0327,原效果减10点伤害，60点时间,"Giảm 10 sát thương, giảm 60 giây hiệu ứng",15,37,m.java:266
+JAVA_ZH_0328,(金),(Kim),3,5,o.java:732
+JAVA_ZH_0329,(木),(Mộc),3,5,o.java:732
+JAVA_ZH_0330,(水),(Thủy),3,5,o.java:732
+JAVA_ZH_0331,(火),(Hỏa),3,5,o.java:732
+JAVA_ZH_0332,(土),(Thổ),3,5,o.java:732
+JAVA_ZH_0333,只需4元，即可激活正版（您需要发送2条短信完成支付，信息费2元/条，不含通信费）,"Chỉ với 4 tệ, mở khóa bản quyền (Gửi 2 tin nhắn SMS để hoàn tất, phí 2 tệ/tin, không phí mạng)",40,112,q.java:85
+JAVA_ZH_0334,钱不够花，仅需2元，就可立即获得1000金币。,"Thiếu tiền? Chỉ với 2 tệ, nhận ngay 1000 vàng.",23,59,q.java:86
+JAVA_ZH_0335,打怪升级太慢，仅需2元，就可开启双倍经验。,"Luyện cấp chậm? Chỉ với 2 tệ, bật ngay x2 kinh nghiệm.",21,61,q.java:87
+JAVA_ZH_0336,想原地复活，并且满血满魔吗？仅需1元就可以实现你的愿望。,"Muốn hồi sinh tại chỗ, đầy máu và ma lực? Chỉ với 1 tệ ước nguyện sẽ thành hiện thực.",28,82,q.java:88
 JAVA_ZH_0337,勇者剑,,3,9,t.java:8
 JAVA_ZH_0338,真银剑,,3,9,t.java:9
 JAVA_ZH_0339,霸王剑,,3,9,t.java:10
@@ -522,19 +522,19 @@ JAVA_ZH_0520,道具,,2,6,t.java:356
 JAVA_ZH_0521,怒气消耗减少,,6,18,t.java:359
 JAVA_ZH_0522,防御力+,,4,10,t.java:359
 JAVA_ZH_0523,移动速度+,,5,13,t.java:359
-JAVA_ZH_0524,等级,,2,6,u.java:14
-JAVA_ZH_0525,速度,,2,6,u.java:14
-JAVA_ZH_0526,名称ID,,4,8,u.java:14
-JAVA_ZH_0527,生命,,2,6,u.java:14
-JAVA_ZH_0528,生命上限,,4,12,u.java:14
-JAVA_ZH_0529,精力,,2,6,u.java:14
-JAVA_ZH_0530,精力上限,,4,12,u.java:14
-JAVA_ZH_0531,攻击力,,3,9,u.java:14
-JAVA_ZH_0532,防御力,,3,9,u.java:14
-JAVA_ZH_0533,经验,,2,6,u.java:14
-JAVA_ZH_0534,表情,,2,6,u.java:14
+JAVA_ZH_0524,等级,Cấp,2,6,u.java:14
+JAVA_ZH_0525,速度,Tốc độ,2,6,u.java:14
+JAVA_ZH_0526,名称ID,ID Tên,4,8,u.java:14
+JAVA_ZH_0527,生命,HP,2,6,u.java:14
+JAVA_ZH_0528,生命上限,HP Tối đa,4,12,u.java:14
+JAVA_ZH_0529,精力,MP,2,6,u.java:14
+JAVA_ZH_0530,精力上限,MP Tối đa,4,12,u.java:14
+JAVA_ZH_0531,攻击力,Tấn công,3,9,u.java:14
+JAVA_ZH_0532,防御力,Phòng thủ,3,9,u.java:14
+JAVA_ZH_0533,经验,Kinh nghiệm,2,6,u.java:14
+JAVA_ZH_0534,表情,Biểu cảm,2,6,u.java:14
 JAVA_ZH_0535,防御,,2,6,v.java:393
-JAVA_ZH_0536,">>WARNING:  任务组数量已经超出程序定义的量！请程序修改！定义数量：10, 当前数量：",,48,112,y.java:23
-JAVA_ZH_0537,">>WARNING:  任务数量已经超出组的最大容量！请程序修改！定义数量：15, 当前数量：",,47,109,y.java:32
-JAVA_ZH_0538,; 组id=,,6,8,y.java:32
-JAVA_ZH_0539,", 组name=",,8,10,y.java:32
+JAVA_ZH_0536,">>WARNING:  任务组数量已经超出程序定义的量！请程序修改！定义数量：10, 当前数量：",">>CẢNH BÁO: Số lượng nhóm nhiệm vụ vượt giới hạn! Giới hạn: 10, Hiện tại:",48,112,y.java:23
+JAVA_ZH_0537,">>WARNING:  任务数量已经超出组的最大容量！请程序修改！定义数量：15, 当前数量：",">>CẢNH BÁO: Số lượng nhiệm vụ vượt giới hạn nhóm! Giới hạn: 15, Hiện tại:",47,109,y.java:32
+JAVA_ZH_0538,; 组id=,; Nhóm id=,6,8,y.java:32
+JAVA_ZH_0539,", 组name=",", Tên nhóm=",8,10,y.java:32

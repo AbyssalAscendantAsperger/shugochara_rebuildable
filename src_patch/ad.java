@@ -56,7 +56,7 @@ public final class ad {
    private static MIDlet J = null;
    private static boolean K = false;
    private static Image L = null;
-   private static final String[] M = new String[]{"继续游戏", "帮助", "返回主菜单"};
+   private static final String[] M = new String[]{"Tiếp tục", "Trợ giúp", "Menu chính"};
    private static byte N = 0;
    private static short[] O = null;
 
@@ -162,11 +162,11 @@ public final class ad {
             j();
             break;
          case 1:
-            w = "帮助";
+            w = "Trợ giúp";
             a(t);
             break;
          case 2:
-            w = "关于";
+            w = "Giới thiệu";
             a(s);
             break;
          case 3:
@@ -320,8 +320,8 @@ public final class ad {
 
    private static void c(Graphics var0) {
       var0.setColor(16777215);
-      var0.drawString("游戏已暂停", 120, 158, 33);
-      var0.drawString("按右软键继续", 120, 162, 17);
+      var0.drawString("Tạm dừng game", 120, 158, 33);
+      var0.drawString("Phím phải để tiếp tục", 120, 162, 17);
    }
 
    private static void l() {
@@ -471,7 +471,7 @@ public final class ad {
       var0.setColor(16777215);
       var0.drawString(v, 120, 313, 33);
       var0.setColor(16763904);
-      var0.drawString("返回", 233, 313, 40);
+      var0.drawString("Trở về", 233, 313, 40);
       var0.setColor(4211247);
       var0.drawRect(2, 2, 235, 315);
    }
@@ -636,12 +636,12 @@ public final class ad {
 
    private static void g(Graphics var0) {
       var0.setColor(16777215);
-      var0.drawString("你确定访问游戏频道", 120, 158, 33);
-      var0.drawString("并退出游戏?", 120, 162, 17);
+      var0.drawString("Bạn muốn truy cập kênh game", 120, 158, 33);
+      var0.drawString("và thoát game?", 120, 162, 17);
       var0.setColor(65280);
-      var0.drawString("否", 7, 313, 36);
+      var0.drawString("Không", 7, 313, 36);
       var0.setColor(16711680);
-      var0.drawString("是", 233, 313, 40);
+      var0.drawString("Có", 233, 313, 40);
    }
 
    private static void y() {
@@ -661,13 +661,13 @@ public final class ad {
    private static void h(Graphics var0) {
       var0.drawImage(L, 120, 160, 3);
       var0.setColor(16777215);
-      var0.drawString("更多精彩游戏", 120, 160 - (b >> 1) - 5, 33);
-      var0.drawString("尽在游戏频道", 120, 160 - (b >> 1), 17);
+      var0.drawString("Nhiều game hay hơn", 120, 160 - (b >> 1) - 5, 33);
+      var0.drawString("tại kênh game xjoys", 120, 160 - (b >> 1), 17);
       var0.drawString("wap.xjoys.com", 120, 160 - (b >> 1) + b - 3, 17);
       var0.setColor(16711680);
-      var0.drawString("确认", 7, 313, 36);
+      var0.drawString("Đồng ý", 7, 313, 36);
       var0.setColor(65280);
-      var0.drawString("退出", 233, 313, 40);
+      var0.drawString("Thoát", 233, 313, 40);
    }
 
    private static void A() {
@@ -698,11 +698,11 @@ public final class ad {
 
    private static void i(Graphics var0) {
       var0.setColor(16777215);
-      var0.drawString("确认退出", 120, 160, 33);
+      var0.drawString("Xác nhận thoát", 120, 160, 33);
       var0.setColor(16711680);
-      var0.drawString("是", 233, 313, 40);
+      var0.drawString("Có", 233, 313, 40);
       var0.setColor(65280);
-      var0.drawString("否", 7, 313, 36);
+      var0.drawString("Không", 7, 313, 36);
    }
 
    private static void D() {
@@ -735,8 +735,8 @@ public final class ad {
       var0.setColor(16711680);
       var0.drawString(M[N], 120, O[N], 17);
       var0.setColor(16777215);
-      var0.drawString("返回", 233, 320, 40);
-      var0.drawString("确定", 7, 320, 36);
+      var0.drawString("Trở về", 233, 320, 40);
+      var0.drawString("Đồng ý", 7, 320, 36);
    }
 
    private static void E() {
@@ -791,8 +791,8 @@ public final class ad {
 
    private static void k(Graphics var0) {
       var0.setColor(16777215);
-      var0.drawString("是否返回主菜单", 120, 160, 33);
-      var0.drawString("是", 7, 313, 36);
-      var0.drawString("否", 233, 313, 40);
+      var0.drawString("Trở về menu chính?", 120, 160, 33);
+      var0.drawString("Có", 7, 313, 36);
+      var0.drawString("Không", 233, 313, 40);
    }
 }

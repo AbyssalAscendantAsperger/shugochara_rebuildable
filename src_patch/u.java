@@ -11,7 +11,7 @@ public final class u {
    };
 
    static {
-      String[] var10000 = new String[]{"等级", "速度", "名称ID", "生命", "生命上限", "精力", "精力上限", "攻击力", "防御力", "经验", "金钱", "表情"};
+      String[] var10000 = new String[]{"Cấp", "Tốc độ", "ID Tên", "HP", "HP Tối đa", "MP", "MP Tối đa", "Tấn công", "Phòng thủ", "Kinh nghiệm", "Tiền vàng", "Biểu cảm"};
       short[] var0 = new short[]{9, 16, 1, 5, 6, 7, 8, 22, 23, 10, 12, 3};
    }
 }

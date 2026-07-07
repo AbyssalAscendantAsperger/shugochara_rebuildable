@@ -1,19 +1,19 @@
 public final class e {
    public static final String[][] a = new String[][]{
-      {"拳挑起", "熊咆哮", "暗黑之光", "一闪·破", "耐性", "魔力", "会心", "忍耐"}, {"拳挑起", "熊咆哮", "暗黑之光", "一闪·破", "耐性", "魔力", "会心", "忍耐"}
+      {"Khâu Quyền", "Hùng Gầm", "Ám Hắc Quang", "Nhất Kiếm Phá", "Sức Bền", "Ma Lực", "Chí Mạng", "Chống Chịu"}, {"Khâu Quyền", "Hùng Gầm", "Ám Hắc Quang", "Nhất Kiếm Phá", "Sức Bền", "Ma Lực", "Chí Mạng", "Chống Chịu"}
    };
    public static final String[][] b = new String[][]{
       {
-            "奋力的用拳对前方的地面发动猛烈震击，能将敌人挑起在半空中。",
-            "聚剑气、拳道于一体发动熊咆哮，震飞附近的所有敌人并造成大量伤害。",
-            "聚集全身的剑气发动黑暗攻击，对附近大范围的敌人造成大量伤害。",
-            "成功防御敌人攻击，将怒气化形，以极速斩出一剑，造成普通攻击多倍以上伤害。",
-            "通过提升自己的力量，强化身体，增加生命最大值和基础攻击力。",
-            "通过提升自己的精神力量，增加魔力最大值。",
-            "通过提高自己的剑术，增加暴击概率。",
-            "通过提升自己的斗气，增加吸收伤害的能力。"
+            "Dùng hết sức đấm mạnh xuống đất phía trước, hất tung kẻ địch lên không trung.",
+            "Tụ kiếm khí và quyền đạo phát động gấu gầm rống, hất văng mọi kẻ địch xung quanh và gây sát thương lớn.",
+            "Tụ toàn bộ kiếm khí phát động đòn tấn công bóng tối, gây sát thương lớn trên diện rộng xung quanh.",
+            "Phòng thủ thành công đòn địch, hóa nộ khí thành kiếm, chém ra tốc độ cực nhanh, gây sát thương gấp nhiều lần.",
+            "Nâng cao sức mạnh bản thân, cường hóa cơ thể, tăng sinh lực tối đa và lực tấn công cơ bản.",
+            "Nâng cao sức mạnh tinh thần bản thân, tăng ma lực tối đa.",
+            "Nâng cao kiếm thuật bản thân, tăng tỷ lệ chí mạng.",
+            "Nâng cao đấu khí bản thân, tăng khả năng hấp thụ sát thương."
       },
-      {"追加连击技", "射出巨大的冰冻之箭，对一条线上的敌人造成冰冻伤害", "向天上射出冰之箭，对自身周围全部敌人造成冰冻伤害"}
+      {"Kỹ năng liên kích", "Bắn mũi tên băng khổng lồ, gây sát thương băng cho kẻ địch trên một đường thẳng", "Bắn mũi tên băng lên trời, gây sát thương băng cho toàn bộ kẻ địch xung quanh"}
    };
    public static final short[] c = new short[]{22, 23, 6, 8, 65, 66, 16, -1, -1, 32, -1, 103};
    public static final byte[][][] d = new byte[][][]{{{12, 16, 13}, {12, 15, 13}, {12, 15, 13}, {12, 16, 13}, {2, 0}, {3}, {9}, {11}}};
@@ -122,13 +122,13 @@ public final class e {
 
       int var3;
       if ((var3 = this.a(var1, this.c(var1), 17)) > 0) {
-         var2 = var2 + "升级需要" + var3 + "个技能点，&";
+         var2 = var2 + "Nâng cấp cần " + var3 + " điểm kỹ năng, &";
       }
 
       if (!this.e(var1)) {
-         var2 = var2 + "尚未习得&";
+         var2 = var2 + "Chưa học&";
       } else {
-         var2 = var2 + "当前级别" + this.c(var1) + "&";
+         var2 = var2 + "Cấp hiện tại " + this.c(var1) + "&";
          byte[] var4 = d[this.j][var1];
          int var5 = 0;
 
@@ -136,7 +136,7 @@ public final class e {
             if ((var5 = this.a(var1, var4[var6])) > 0) {
                switch(var4[var6]) {
                   case 0:
-                     var2 = var2 + "攻击力+" + var5 + "，&";
+                     var2 = var2 + "Tấn công +" + var5 + ", &";
                   case 1:
                   case 4:
                   case 5:
@@ -148,37 +148,37 @@ public final class e {
                   default:
                      break;
                   case 2:
-                     var2 = var2 + "生命上限+" + var5 + "，&";
+                     var2 = var2 + "HP tối đa +" + var5 + ", &";
                      break;
                   case 3:
-                     var2 = var2 + "魔力上限+" + var5 + "，&";
+                     var2 = var2 + "MP tối đa +" + var5 + ", &";
                      break;
                   case 9:
-                     var2 = var2 + "暴击率+" + var5 + "%，&";
+                     var2 = var2 + "Chí mạng +" + var5 + "%，&";
                      break;
                   case 11:
-                     var2 = var2 + "伤害吸收+" + var5 + "%，&";
+                     var2 = var2 + "Hấp thụ ST +" + var5 + "%，&";
                      break;
                   case 12:
-                     var2 = var2 + "伤害+" + var5 + "，&";
+                     var2 = var2 + "Sát thương +" + var5 + ", &";
                      break;
                   case 13:
-                     var2 = var2 + "冷却" + var5 + "秒，&";
+                     var2 = var2 + "Hồi chiêu " + var5 + " giây, &";
                      break;
                   case 15:
-                     var2 = var2 + "消耗魔力" + var5 + "点，&";
+                     var2 = var2 + "Tiêu hao MP " + var5 + " điểm, &";
                      break;
                   case 16:
-                     var2 = var2 + "消耗一定的怒气，&";
+                     var2 = var2 + "Tiêu hao lượng nhất định nộ khí, &";
                }
             }
          }
       }
 
       if (this.d(var1)) {
-         var2 = var2 + "已经升至最高级&";
+         var2 = var2 + "Đã đạt cấp tối đa&";
       } else {
-         var2 = var2 + "下一级别" + (this.c(var1) + 1) + "&";
+         var2 = var2 + "Cấp tiếp theo " + (this.c(var1) + 1) + "&";
          byte[] var9 = d[this.j][var1];
          int var11 = 0;
 
@@ -186,7 +186,7 @@ public final class e {
             if ((var11 = this.a(var1, this.c(var1), var9[var13])) > 0) {
                switch(var9[var13]) {
                   case 0:
-                     var2 = var2 + "攻击力+" + var11 + "，&";
+                     var2 = var2 + "Tấn công +" + var11 + ", &";
                   case 1:
                   case 4:
                   case 5:
@@ -198,28 +198,28 @@ public final class e {
                   default:
                      break;
                   case 2:
-                     var2 = var2 + "生命上限+" + var11 + "，&";
+                     var2 = var2 + "HP tối đa +" + var11 + ", &";
                      break;
                   case 3:
-                     var2 = var2 + "魔力上限+" + var11 + "，&";
+                     var2 = var2 + "MP tối đa +" + var11 + ", &";
                      break;
                   case 9:
-                     var2 = var2 + "暴击率+" + var11 + "%，&";
+                     var2 = var2 + "Chí mạng +" + var11 + "%，&";
                      break;
                   case 11:
-                     var2 = var2 + "伤害吸收+" + var11 + "%，&";
+                     var2 = var2 + "Hấp thụ ST +" + var11 + "%，&";
                      break;
                   case 12:
-                     var2 = var2 + "伤害+" + var11 + "，&";
+                     var2 = var2 + "Sát thương +" + var11 + ", &";
                      break;
                   case 13:
-                     var2 = var2 + "冷却" + var11 + "秒，&";
+                     var2 = var2 + "Hồi chiêu " + var11 + " giây, &";
                      break;
                   case 15:
-                     var2 = var2 + "消耗魔力" + var11 + "点，&";
+                     var2 = var2 + "Tiêu hao MP " + var11 + " điểm, &";
                      break;
                   case 16:
-                     var2 = var2 + "消耗一定的怒气，&";
+                     var2 = var2 + "Tiêu hao lượng nhất định nộ khí, &";
                }
             }
          }

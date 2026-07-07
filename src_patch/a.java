@@ -252,34 +252,34 @@ public final class a {
    public static final String g(int var0) {
       switch(var0) {
          case 1:
-            return "上方向键";
+            return "Phím Lên";
          case 2:
-            return "下方向键";
+            return "Phím Xuống";
          case 4:
-            return "左方向键";
+            return "Phím Trái";
          case 8:
-            return "右方向键";
+            return "Phím Phải";
          case 16:
-            return "数字键0";
+            return "Phím số 0";
          case 32:
-            return "数字键1";
+            return "Phím số 1";
          case 64:
-            return "数字键3";
+            return "Phím số 3";
          case 128:
          case 16384:
-            return "数字键5";
+            return "Phím số 5";
          case 256:
-            return "数字键7";
+            return "Phím số 7";
          case 512:
-            return "数字键9";
+            return "Phím số 9";
          case 1024:
-            return " * 键";
+            return "Phím *";
          case 2048:
-            return " # 键";
+            return "Phím #";
          case 4096:
-            return "左软键";
+            return "Phím mềm trái";
          case 8192:
-            return "右软键";
+            return "Phím mềm phải";
          default:
             return null;
       }

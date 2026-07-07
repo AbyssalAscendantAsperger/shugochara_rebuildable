@@ -20,7 +20,7 @@ public final class y {
       b = new y[10];
       short var1;
       if ((var1 = var0.readShort()) > 10) {
-         throw new Exception(">>WARNING:  任务组数量已经超出程序定义的量！请程序修改！定义数量：10, 当前数量：" + var1);
+         throw new Exception(">>CẢNH BÁO: Số lượng nhóm nhiệm vụ vượt giới hạn! Giới hạn: 10, Hiện tại: " + var1);
       } else {
          for(int var2 = 0; var2 < var1; ++var2) {
             y var3;
@@ -29,7 +29,7 @@ public final class y {
             var0.readUTF();
             short var4;
             if ((var4 = var0.readShort()) > 15) {
-               throw new Exception(">>WARNING:  任务数量已经超出组的最大容量！请程序修改！定义数量：15, 当前数量：" + var4 + "; 组id=" + var3.c + ", 组name=" + var3.d);
+               throw new Exception(">>CẢNH BÁO: Số lượng nhiệm vụ vượt giới hạn nhóm! Giới hạn: 15, Hiện tại: " + var4 + "; Nhóm id=" + var3.c + ", Tên nhóm=" + var3.d);
             }
 
             for(int var5 = 0; var5 < var4; ++var5) {

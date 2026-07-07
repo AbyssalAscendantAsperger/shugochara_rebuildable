@@ -15,6 +15,6 @@ public final class ae {
    static {
       short[] var10000 = new short[]{0, 0, 240, 320};
       var10000 = new short[]{0, 0, 240, 160};
-      String[] var1 = new String[]{"初入江湖", "再征沙场", "关于", "帮助", "卸甲归田"};
+      String[] var1 = new String[]{"Game mới", "Chơi tiếp", "Giới thiệu", "Trợ giúp", "Thoát game"};
    }
 }

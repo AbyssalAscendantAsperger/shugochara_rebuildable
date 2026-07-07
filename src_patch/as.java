@@ -1505,7 +1505,7 @@ public final class as {
       int var14 = Integer.parseInt(var1.get("r").toString());
       int var15 = Integer.parseInt(var1.get("q").toString());
       String var16 = var1.get("z").toString();
-      String var17 = "保存密码？";
+      String var17 = "Lưu mật khẩu?";
       if (var4 == var1) {
          var12 = var8[9];
          b(var0, var13, var10, var3 + var5 + var6, var7 - 9, var15 + 11);
@@ -1602,7 +1602,7 @@ public final class as {
             var12 += var2;
          }
 
-         var0.drawString("按“确定”键返回。", var7 + 3, var9 + var12 + var8 + 3, 0);
+         var0.drawString("Nhấn “Đồng ý” để trở về.", var7 + 3, var9 + var12 + var8 + 3, 0);
       }
 
       var0.setClip(var7, var8, var5, var6 + 15);

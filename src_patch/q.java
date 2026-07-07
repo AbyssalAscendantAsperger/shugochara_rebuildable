@@ -82,10 +82,10 @@ public final class q implements Runnable {
          d[var3] = 0;
       }
 
-      b[0] = "只需4元，即可激活正版（您需要发送2条短信完成支付，信息费2元/条，不含通信费）";
-      b[1] = "钱不够花，仅需2元，就可立即获得1000金币。";
-      b[2] = "打怪升级太慢，仅需2元，就可开启双倍经验。";
-      b[3] = "想原地复活，并且满血满魔吗？仅需1元就可以实现你的愿望。";
+      b[0] = "Chỉ với 4 tệ, mở khóa bản quyền (Gửi 2 tin nhắn SMS để hoàn tất, phí 2 tệ/tin, không phí mạng)";
+      b[1] = "Thiếu tiền? Chỉ với 2 tệ, nhận ngay 1000 vàng.";
+      b[2] = "Luyện cấp chậm? Chỉ với 2 tệ, bật ngay x2 kinh nghiệm.";
+      b[3] = "Muốn hồi sinh tại chỗ, đầy máu và ma lực? Chỉ với 1 tệ ước nguyện sẽ thành hiện thực.";
       d[0] = 40;
       d[1] = 20;
       d[2] = 20;
