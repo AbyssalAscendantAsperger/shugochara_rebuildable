@@ -1,0 +1,10 @@
+{
+  "version": "v8-uihotfix",
+  "target": "res/bin/uires.bin",
+  "aq_index_patched": 3,
+  "before_size": 82302,
+  "after_size": 82302,
+  "before_sha256": "98cf6a46c24ea82f972a2f5c8a19481acd2bcb5e3d29ad5c23cee4418f4e1d19",
+  "after_sha256": "98cf6a46c24ea82f972a2f5c8a19481acd2bcb5e3d29ad5c23cee4418f4e1d19",
+  "replaced_sub_count": 56
+}
