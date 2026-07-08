@@ -1,0 +1,122 @@
+[
+  {
+    "class": "a.class",
+    "before_cjk": 14,
+    "after_cjk": 0
+  },
+  {
+    "class": "aa.class",
+    "before_cjk": 10,
+    "after_cjk": 0
+  },
+  {
+    "class": "ad.class",
+    "before_cjk": 19,
+    "after_cjk": 0
+  },
+  {
+    "class": "ae.class",
+    "before_cjk": 6,
+    "after_cjk": 0
+  },
+  {
+    "class": "af.class",
+    "before_cjk": 24,
+    "after_cjk": 0
+  },
+  {
+    "class": "ai.class",
+    "before_cjk": 15,
+    "after_cjk": 0
+  },
+  {
+    "class": "an.class",
+    "before_cjk": 2,
+    "after_cjk": 0
+  },
+  {
+    "class": "as.class",
+    "before_cjk": 2,
+    "after_cjk": 0
+  },
+  {
+    "class": "av.class",
+    "before_cjk": 55,
+    "after_cjk": 0
+  },
+  {
+    "class": "b.class",
+    "before_cjk": 1,
+    "after_cjk": 0
+  },
+  {
+    "class": "c.class",
+    "before_cjk": 1,
+    "after_cjk": 0
+  },
+  {
+    "class": "d.class",
+    "before_cjk": 81,
+    "after_cjk": 0
+  },
+  {
+    "class": "e.class",
+    "before_cjk": 36,
+    "after_cjk": 0
+  },
+  {
+    "class": "g.class",
+    "before_cjk": 1,
+    "after_cjk": 0
+  },
+  {
+    "class": "j.class",
+    "before_cjk": 2,
+    "after_cjk": 0
+  },
+  {
+    "class": "k.class",
+    "before_cjk": 4,
+    "after_cjk": 0
+  },
+  {
+    "class": "m.class",
+    "before_cjk": 78,
+    "after_cjk": 0
+  },
+  {
+    "class": "o.class",
+    "before_cjk": 5,
+    "after_cjk": 0
+  },
+  {
+    "class": "q.class",
+    "before_cjk": 4,
+    "after_cjk": 0
+  },
+  {
+    "class": "t.class",
+    "before_cjk": 193,
+    "after_cjk": 0
+  },
+  {
+    "class": "u.class",
+    "before_cjk": 12,
+    "after_cjk": 0
+  },
+  {
+    "class": "v.class",
+    "before_cjk": 3,
+    "after_cjk": 0
+  },
+  {
+    "class": "w.class",
+    "before_cjk": 2,
+    "after_cjk": 0
+  },
+  {
+    "class": "y.class",
+    "before_cjk": 4,
+    "after_cjk": 0
+  }
+]

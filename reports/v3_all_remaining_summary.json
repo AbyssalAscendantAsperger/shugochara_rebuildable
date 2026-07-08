@@ -1,0 +1,47 @@
+[
+  {
+    "class": "t.class",
+    "before_cjk": 193,
+    "after_cjk": 0
+  },
+  {
+    "class": "av.class",
+    "before_cjk": 55,
+    "after_cjk": 0
+  },
+  {
+    "class": "u.class",
+    "before_cjk": 12,
+    "after_cjk": 0
+  },
+  {
+    "class": "ad.class",
+    "before_cjk": 19,
+    "after_cjk": 0
+  },
+  {
+    "class": "d.class",
+    "before_cjk": 81,
+    "after_cjk": 0
+  },
+  {
+    "class": "g.class",
+    "before_cjk": 1,
+    "after_cjk": 0
+  },
+  {
+    "class": "ae.class",
+    "before_cjk": 6,
+    "after_cjk": 1
+  },
+  {
+    "class": "k.class",
+    "before_cjk": 4,
+    "after_cjk": 4
+  },
+  {
+    "class": "o.class",
+    "before_cjk": 5,
+    "after_cjk": 5
+  }
+]

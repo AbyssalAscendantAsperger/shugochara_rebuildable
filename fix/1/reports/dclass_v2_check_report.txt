@@ -1,0 +1,111 @@
+=== d.class CJK BEFORE: base_classes/d.class ===
+  777 len=   14 & 当前完成
+  841 len=    5 (装)
+  847 len=  986 <游戏简介>&二十四年前，我促成了科勒斯和她的神话，而我到底是谁，前世今身，奈何桥下，二十四年后的我用我的故事讲述了另一个我记忆中的科勒斯和爱伦的故事。而我，依然是那个剑士。&&<主菜单操作>&方向键左/数字键4:&向左移动；&方向键右/数字键6:&向右移动；&方向键上/数字键2:&向上移动；&方向键下/数字键8:&向下移动；&双击方向键左/数字键4:&向左冲刺；&双击方向键右/数字键6:&向右冲刺；&双击方向键上/数字键2:&向上冲刺；&双击方向键下/数字键8:&向下冲刺；&数字键1:技能1；&数字键3:技能2；&数字键5:攻击/对话；&数字键7:技能3；&数字键9：技能4（需用技能点升级后才能使用）；提示：0键格挡成功后，按5键可以发动一闪，使用得当，可以无伤通关&*键：血药；&#键：蓝药；&左软键:确定/游戏菜单；&右软键:取消/返回/任务菜单；&
+ 1001 len=    6 丢弃
+ 1002 len=   15 个技能点。
+ 1003 len=   24 主线任务不能放弃
+ 1004 len=    6 买入
+ 1005 len=    6 任务
+ 1006 len=   12 任务物品
+ 1007 len=    6 使用
+ 1008 len=    6 保存
+ 1009 len=   15 保存成功！
+ 1010 len=   24 保存时出现错误！
+ 1011 len=   12 升级成功
+ 1012 len=   15 升级成功！
+ 1013 len=    6 卖出
+ 1014 len=    6 取消
+ 1015 len=    6 合并
+ 1016 len=    3 否
+ 1017 len=    6 声音
+ 1018 len=   21 存档读取错误！
+ 1019 len=   21 尚未获得此称号
+ 1020 len=    6 属性
+ 1021 len=   15 已到顶级！
+ 1022 len=   12 已经售完
+ 1023 len=   12 已经完成
+ 1024 len=   12 已经打造
+ 1025 len=   21 已经接受该任务
+ 1026 len=   12 已经满级
+ 1027 len=   12 已经装备
+ 1028 len=    6 帮助
+ 1029 len=   27 当前场景不能保存。
+ 1030 len=    6 快捷
+ 1031 len=   12 打造成功
+ 1032 len=    6 技能
+ 1033 len=   27 技能点不够，还需要
+ 1034 len=   15 接受任务？
+ 1035 len=   14 提交任务: 
+ 1036 len=   25 支线任务最多接3个
+ 1037 len=   18 放弃该任务？
+ 1038 len=    6 新手
+ 1039 len=    3 是
+ 1040 len=   12 是否使用
+ 1041 len=   21 是否保存游戏？
+ 1042 len=   12 是否装备
+ 1043 len=   21 是否覆盖记录？
+ 1044 len=   21 是否读取存档？
+ 1045 len=   24 是否返回主菜单？
+ 1046 len=    6 未知
+ 1047 len=    9 未获得
+ 1048 len=   12 材料不足
+ 1049 len=   12 没有存货
+ 1050 len=   15 物品未就绪
+ 1051 len=   12 现金不足
+ 1052 len=    6 登录
+ 1053 len=    6 确定
+ 1054 len=    6 确认
+ 1055 len=   12 确认购买
+ 1056 len=    6 称号
+ 1057 len=   12 等级已满
+ 1058 len=    6 系统
+ 1059 len=    6 背包
+ 1060 len=   28 获得奖励: 彩虹之心x1
+ 1061 len=   25 获得奖励: 技能书x1
+ 1062 len=   25 获得奖励: 技能书x2
+ 1063 len=   25 获得奖励: 金钱x1000
+ 1064 len=   25 获得奖励: 金钱x2000
+ 1065 len=   25 获得奖励: 金钱x3000
+ 1066 len=   25 获得奖励: 金钱x4000
+ 1067 len=   14 获得称号: 
+ 1068 len=    9 获得：
+ 1069 len=    6 装备
+ 1070 len=   42 评分越高随机获得的奖励就越好
+ 1071 len=   21 该任务已经完成
+ 1072 len=    6 详细
+ 1073 len=   24 请到宠物界面使用
+ 1074 len=    6 返回
+ 1075 len=   15 返回主菜单
+ 1076 len=   21 选择游戏难度：
+ 1077 len=    7 道 具
+ 1078 len=   12 金钱不足
+TOTAL_PRINTED=81
+
+=== d.class CJK AFTER: _safe_work/jarroot/d.class ===
+TOTAL_PRINTED=0
+
+=== PATCH LOG ===
+_safe_work/jarroot/av.class: changed 18 constants -> _safe_work/jarroot/av.class
+_safe_work/jarroot/ae.class: changed 5 constants -> _safe_work/jarroot/ae.class
+_safe_work/jarroot/ad.class: changed 11 constants -> _safe_work/jarroot/ad.class
+_safe_work/jarroot/d.class: changed 81 constants -> _safe_work/jarroot/d.class
+_safe_work/jarroot/g.class: changed 1 constants -> _safe_work/jarroot/g.class
+_safe_work/jarroot/k.class: changed 0 constants -> _safe_work/jarroot/k.class
+_safe_work/jarroot/t.class: changed 2 constants -> _safe_work/jarroot/t.class
+_safe_work/jarroot/u.class: changed 0 constants -> _safe_work/jarroot/u.class
+_safe_work/jarroot/o.class: changed 0 constants -> _safe_work/jarroot/o.class
+
+=== BUILD VALIDATION ===
+{
+  "jar": "release_safe/shugochara_vi_nodau_sct_dclass_v2.jar",
+  "jar_size": 1041631,
+  "jar_sha256": "654a23f7dcb3b2f9d0c097dc278a7bbf94d89e742359a46970c7fc74a8b0a385",
+  "sct_size": 18197,
+  "sct_sha256": "84f2c69430e2bd859be876d978d84abb443b90a96216c3297b136730ae8da073",
+  "entry_count": 117,
+  "has_manifest": true,
+  "has_sct": true,
+  "map_json": "config/class_string_map_safe_vi_ascii_v2_dclass.json",
+  "sct_input": "res/bin/sct_vi_nodau.bin"
+}

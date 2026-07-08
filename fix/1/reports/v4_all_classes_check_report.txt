@@ -1,0 +1,70 @@
+V4 ALL CLASSES VIET HOA KHONG DAU REPORT
+Date: 2026-07-08
+
+=== PATCH LOG ===
+_safe_work/jarroot/CMIDlet.class: changed 0 constants -> _safe_work/jarroot/CMIDlet.class
+_safe_work/jarroot/a.class: changed 14 constants -> _safe_work/jarroot/a.class
+_safe_work/jarroot/aa.class: changed 10 constants -> _safe_work/jarroot/aa.class
+_safe_work/jarroot/ab.class: changed 0 constants -> _safe_work/jarroot/ab.class
+_safe_work/jarroot/ac.class: changed 0 constants -> _safe_work/jarroot/ac.class
+_safe_work/jarroot/ad.class: changed 19 constants -> _safe_work/jarroot/ad.class
+_safe_work/jarroot/ae.class: changed 6 constants -> _safe_work/jarroot/ae.class
+_safe_work/jarroot/af.class: changed 24 constants -> _safe_work/jarroot/af.class
+_safe_work/jarroot/ag.class: changed 0 constants -> _safe_work/jarroot/ag.class
+_safe_work/jarroot/ah.class: changed 0 constants -> _safe_work/jarroot/ah.class
+_safe_work/jarroot/ai.class: changed 15 constants -> _safe_work/jarroot/ai.class
+_safe_work/jarroot/aj.class: changed 0 constants -> _safe_work/jarroot/aj.class
+_safe_work/jarroot/ak.class: changed 0 constants -> _safe_work/jarroot/ak.class
+_safe_work/jarroot/al.class: changed 0 constants -> _safe_work/jarroot/al.class
+_safe_work/jarroot/am.class: changed 0 constants -> _safe_work/jarroot/am.class
+_safe_work/jarroot/an.class: changed 2 constants -> _safe_work/jarroot/an.class
+_safe_work/jarroot/ao.class: changed 0 constants -> _safe_work/jarroot/ao.class
+_safe_work/jarroot/ap.class: changed 0 constants -> _safe_work/jarroot/ap.class
+_safe_work/jarroot/aq.class: changed 0 constants -> _safe_work/jarroot/aq.class
+_safe_work/jarroot/ar.class: changed 0 constants -> _safe_work/jarroot/ar.class
+_safe_work/jarroot/as.class: changed 2 constants -> _safe_work/jarroot/as.class
+_safe_work/jarroot/at.class: changed 0 constants -> _safe_work/jarroot/at.class
+_safe_work/jarroot/au.class: changed 0 constants -> _safe_work/jarroot/au.class
+_safe_work/jarroot/av.class: changed 55 constants -> _safe_work/jarroot/av.class
+_safe_work/jarroot/b.class: changed 1 constants -> _safe_work/jarroot/b.class
+_safe_work/jarroot/c.class: changed 1 constants -> _safe_work/jarroot/c.class
+_safe_work/jarroot/d.class: changed 81 constants -> _safe_work/jarroot/d.class
+_safe_work/jarroot/e.class: changed 36 constants -> _safe_work/jarroot/e.class
+_safe_work/jarroot/f.class: changed 0 constants -> _safe_work/jarroot/f.class
+_safe_work/jarroot/g.class: changed 1 constants -> _safe_work/jarroot/g.class
+_safe_work/jarroot/h.class: changed 0 constants -> _safe_work/jarroot/h.class
+_safe_work/jarroot/i.class: changed 0 constants -> _safe_work/jarroot/i.class
+_safe_work/jarroot/j.class: changed 2 constants -> _safe_work/jarroot/j.class
+_safe_work/jarroot/k.class: changed 4 constants -> _safe_work/jarroot/k.class
+_safe_work/jarroot/l.class: changed 0 constants -> _safe_work/jarroot/l.class
+_safe_work/jarroot/m.class: changed 78 constants -> _safe_work/jarroot/m.class
+_safe_work/jarroot/n.class: changed 0 constants -> _safe_work/jarroot/n.class
+_safe_work/jarroot/o.class: changed 5 constants -> _safe_work/jarroot/o.class
+_safe_work/jarroot/p.class: changed 0 constants -> _safe_work/jarroot/p.class
+_safe_work/jarroot/q.class: changed 4 constants -> _safe_work/jarroot/q.class
+_safe_work/jarroot/r.class: changed 0 constants -> _safe_work/jarroot/r.class
+_safe_work/jarroot/s.class: changed 0 constants -> _safe_work/jarroot/s.class
+_safe_work/jarroot/t.class: changed 193 constants -> _safe_work/jarroot/t.class
+_safe_work/jarroot/u.class: changed 12 constants -> _safe_work/jarroot/u.class
+_safe_work/jarroot/v.class: changed 3 constants -> _safe_work/jarroot/v.class
+_safe_work/jarroot/w.class: changed 2 constants -> _safe_work/jarroot/w.class
+_safe_work/jarroot/x.class: changed 0 constants -> _safe_work/jarroot/x.class
+_safe_work/jarroot/y.class: changed 4 constants -> _safe_work/jarroot/y.class
+_safe_work/jarroot/z.class: changed 0 constants -> _safe_work/jarroot/z.class
+
+=== BUILD VALIDATION ===
+{
+  "jar": "release_safe/shugochara_vi_nodau_v4_all_classes.jar",
+  "jar_size": 1039564,
+  "jar_sha256": "354c78fa6c889ae426b3d3ed6529e24a0bcc4d6226881eaaf8afe4192361732f",
+  "sct_size": 18197,
+  "sct_sha256": "84f2c69430e2bd859be876d978d84abb443b90a96216c3297b136730ae8da073",
+  "entry_count": 117,
+  "has_manifest": true,
+  "has_sct": true,
+  "map_json": "config/class_string_map_safe_vi_ascii_v4_all_classes.json",
+  "sct_input": "res/bin/sct_vi_nodau.bin",
+  "patch_mode": "all_classes_constant_pool"
+}
+=== REMAINING CJK AFTER V4 ===
+NO CJK REMAINING IN PATCHED CLASSES
