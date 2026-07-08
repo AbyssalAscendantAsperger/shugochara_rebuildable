@@ -88,9 +88,9 @@ JAVA_ZH_0086,你看到我说明掉落物品类型出问题了:),,18,50,an.java:4
 JAVA_ZH_0087,金,,1,3,an.java:163; c.java:128
 JAVA_ZH_0088,保存密码？,Lưu mật khẩu?,5,15,as.java:1508
 JAVA_ZH_0089,按“确定”键返回。,Nhấn “Đồng ý” để trở về.,9,27,as.java:1605
-JAVA_ZH_0090,新游戏,,3,9,av.java:82
-JAVA_ZH_0091,更多游戏,,4,12,av.java:82
-JAVA_ZH_0092,音乐,,2,6,av.java:82
+JAVA_ZH_0090,新游戏,Đã việt hóa trong code,3,9,av.java:82
+JAVA_ZH_0091,更多游戏,Đã việt hóa trong code,4,12,av.java:82
+JAVA_ZH_0092,音乐,Đã việt hóa trong code,2,6,av.java:82
 JAVA_ZH_0093,支线任务是重要的金钱来源,,12,36,av.java:172
 JAVA_ZH_0094,铁匠铺可以升级装备，打造任务物品,铁匠铺可以升级Trang bị，打造任务物品,16,48,av.java:172
 JAVA_ZH_0095,生命之水可以让你重生。,,11,33,av.java:172
@@ -135,15 +135,15 @@ JAVA_ZH_0133,冷星照薄裳,,5,15,av.java:2717
 JAVA_ZH_0134,挥袖乘风去,,5,15,av.java:2717
 JAVA_ZH_0135,空留满地霜,,5,15,av.java:2717
 JAVA_ZH_0136,动画状态列表出界！baseInfo[INFO_OBJ_STATE] = ,,36,54,b.java:35; v.java:109
-JAVA_ZH_0137,属性,,2,6,d.java:19
-JAVA_ZH_0138,背包,,2,6,d.java:19
+JAVA_ZH_0137,属性,Đã việt hóa trong code,2,6,d.java:19
+JAVA_ZH_0138,背包,Đã việt hóa trong code,2,6,d.java:19
 JAVA_ZH_0139,装备,Trang bị,2,6,d.java:19; t.java:356
-JAVA_ZH_0140,技能,,2,6,d.java:19
-JAVA_ZH_0141,任务,,2,6,d.java:19
+JAVA_ZH_0140,技能,Đã việt hóa trong code,2,6,d.java:19
+JAVA_ZH_0141,任务,Đã việt hóa trong code,2,6,d.java:19
 JAVA_ZH_0142,称号,Danh hiệu,2,6,d.java:19; t.java:356
-JAVA_ZH_0143,系统,,2,6,d.java:19
-JAVA_ZH_0144,声音,,2,6,d.java:54
-JAVA_ZH_0145,保存,,2,6,d.java:54
+JAVA_ZH_0143,系统,Đã việt hóa trong code,2,6,d.java:19
+JAVA_ZH_0144,声音,Đã việt hóa trong code,2,6,d.java:54
+JAVA_ZH_0145,保存,Đã việt hóa trong code,2,6,d.java:54
 JAVA_ZH_0146,提交任务: ,,6,14,d.java:601
 JAVA_ZH_0147,获得奖励: 金钱x1000,,13,25,d.java:606
 JAVA_ZH_0148,获得奖励: 技能书x1,,11,25,d.java:611
@@ -164,7 +164,7 @@ JAVA_ZH_0162,没有存货,,4,12,d.java:1116
 JAVA_ZH_0163,现金不足,,4,12,d.java:1118; d.java:1126
 JAVA_ZH_0164,已经售完,,4,12,d.java:1165; d.java:1167
 JAVA_ZH_0165,评分越高随机获得的奖励就越好,,14,42,d.java:1393
-JAVA_ZH_0166,获得：,,3,9,d.java:1484
+JAVA_ZH_0166,获得：,Đã việt hóa trong code,3,9,d.java:1484
 JAVA_ZH_0167,已经打造,,4,12,d.java:1629
 JAVA_ZH_0168,金钱不足,,4,12,d.java:1638; d.java:1655; d.java:1676; d.java:1712
 JAVA_ZH_0169,打造成功,,4,12,d.java:1642; d.java:1659; d.java:1680
@@ -174,7 +174,7 @@ JAVA_ZH_0172,等级已满,,4,12,d.java:1722
 JAVA_ZH_0173,已经满级,,4,12,d.java:1790
 JAVA_ZH_0174,当前场景不能保存。,,9,27,d.java:1871
 JAVA_ZH_0175,是否返回主菜单？,,8,24,d.java:1900
-JAVA_ZH_0176,新手,,2,6,d.java:1944
+JAVA_ZH_0176,新手,Đã việt hóa trong code,2,6,d.java:1944
 JAVA_ZH_0177,物品未就绪,,5,15,d.java:2068; w.java:255
 JAVA_ZH_0178,是否使用,,4,12,d.java:2076
 JAVA_ZH_0179,请到宠物界面使用,,8,24,d.java:2082
@@ -182,18 +182,18 @@ JAVA_ZH_0180,是否装备,是否Trang bị,4,12,d.java:2278; d.java:2801
 JAVA_ZH_0181,已经装备,已经Trang bị,4,12,d.java:2283
 JAVA_ZH_0182,技能点不够，还需要,,9,27,d.java:2550
 JAVA_ZH_0183,个技能点。,,5,15,d.java:2550
-JAVA_ZH_0184,已到顶级！,,5,15,d.java:2557
-JAVA_ZH_0185,升级成功！,,5,15,d.java:2561
+JAVA_ZH_0184,已到顶级！,Đã việt hóa trong code,5,15,d.java:2557
+JAVA_ZH_0185,升级成功！,Đã việt hóa trong code,5,15,d.java:2561
 JAVA_ZH_0186,主线任务不能放弃,,8,24,d.java:2647
 JAVA_ZH_0187,放弃该任务？,,6,18,d.java:2653
 JAVA_ZH_0188,尚未获得此称号,尚未获得此Danh hiệu,7,21,d.java:2805
 JAVA_ZH_0189,未获得,,3,9,d.java:2837
 JAVA_ZH_0190,(装),,3,5,d.java:2840
 JAVA_ZH_0191,& 当前完成,,6,14,d.java:2849
-JAVA_ZH_0192,未知,,2,6,d.java:2857
+JAVA_ZH_0192,未知,Đã việt hóa trong code,2,6,d.java:2857
 JAVA_ZH_0193,存档读取错误！,,7,21,d.java:3012
 JAVA_ZH_0194,是否读取存档？,,7,21,d.java:3040
-JAVA_ZH_0195,保存成功！,,5,15,d.java:3191; d.java:3217; d.java:3218
+JAVA_ZH_0195,保存成功！,Đã việt hóa trong code,5,15,d.java:3191; d.java:3217; d.java:3218
 JAVA_ZH_0196,保存时出现错误！,,8,24,d.java:3195; d.java:3220
 JAVA_ZH_0197,是否覆盖记录？,,7,21,d.java:3238
 JAVA_ZH_0198,是否保存游戏？,,7,21,d.java:3240
