@@ -1,0 +1,12 @@
+{
+  "jar": "release_safe/shugochara_vi_nodau_sct.jar",
+  "jar_size": 1042106,
+  "jar_sha256": "431c3e590a6a8128a3fcd748c495f141b26728e838a512144398d53d03dcd146",
+  "sct_size": 18197,
+  "sct_sha256": "84f2c69430e2bd859be876d978d84abb443b90a96216c3297b136730ae8da073",
+  "entry_count": 117,
+  "has_manifest": true,
+  "has_sct": true,
+  "map_json": "config/class_string_map_safe_vi_ascii.json",
+  "sct_input": "res/bin/sct_vi_nodau.bin"
+}

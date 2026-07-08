@@ -49,6 +49,9 @@ mkdir -p "$JARROOT"
 echo "[1/6] Copy res + base_classes -> $JARROOT"
 cp -R res/. "$JARROOT/"
 cp -R base_classes/. "$JARROOT/"
+# Don rac build/dich trong res/bin de khong dua file thu nghiem vao JAR.
+# Game chi can bin/sct.bin; cac ban sct_vi_*.bin, sct_rebuilt_*.bin chi la file trung gian.
+rm -f "$JARROOT"/bin/sct_vi*.bin "$JARROOT"/bin/sct_rebuilt*.bin "$JARROOT"/bin/sct_from*.bin 2>/dev/null || true
 
 # 2) Ghi đè sct.bin đã dịch/repack.
 echo "[2/6] Install SCT: $SCT_INPUT -> $JARROOT/bin/sct.bin"
