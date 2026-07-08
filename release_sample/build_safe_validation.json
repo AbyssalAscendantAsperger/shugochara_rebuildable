@@ -1,0 +1,12 @@
+{
+  "jar": "release_safe/shugochara_safe_vi_test.jar",
+  "jar_size": 1062160,
+  "jar_sha256": "b21885f712e88ed424c4698dcdc33b8dc55987070e3c2ac4e7c8c0366010b443",
+  "sct_size": 21651,
+  "sct_sha256": "11c554f9f0fc0c576faf16a0b9204e8d596284e241e818ad56b6728016a21f38",
+  "entry_count": 119,
+  "has_manifest": true,
+  "has_sct": true,
+  "map_json": "config/class_string_map_safe_vi_ascii.json",
+  "sct_input": "res/bin/sct_rebuilt_safe.bin"
+}

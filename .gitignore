@@ -1,0 +1,6 @@
+_safe_work/
+release_safe/
+*.tmp
+*.tmpcheck
+__pycache__/
+.DS_Store
