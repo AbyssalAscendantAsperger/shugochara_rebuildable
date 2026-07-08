@@ -1,0 +1,28 @@
+{
+  "res/APISetting.ini": {
+    "size": 6419,
+    "cjk": false,
+    "non_ascii_count": 0
+  },
+  "res/META-INF/MANIFEST.MF": {
+    "size": 356,
+    "cjk": false,
+    "non_ascii_count": 0
+  },
+  "res/bin/choice.bin": {
+    "size": 647,
+    "sha256": "94a53ce47bc6225b022ce57874e2c7f3a6afa0cc69aefc4c6dfb5cd0ee751650"
+  },
+  "res/bin/stg.bin": {
+    "size": 1257,
+    "sha256": "8505b88855958035fd79f6d050ce79fd27770c9db73989add3540c68feaa99db"
+  },
+  "res/bin/80.bin": {
+    "size": 100,
+    "sha256": "e56ffd87662583b9ed92cd386ab060fb5eebb58063c887854a8bbca29fcf9d24"
+  },
+  "jar": {
+    "size": 1038560,
+    "sha256": "2a6e10173d0df13fa447f7d9333597feb42462072207f73a28b25e3934b1dc16"
+  }
+}

@@ -1,0 +1,26 @@
+0,0: 购买材料 -> Mua vat lieu
+0,1: 离开 -> Roi di
+1,0: 强化装备 -> Cuong hoa TB
+1,1: 离开 -> Roi di
+2,0: 关于师父 -> Ve su phu
+2,1: 杉师兄 -> Su huynh Shan
+3,0: 七夕节 -> That tich
+3,1: 管她呢 -> Ke co ay
+4,0: 购买 -> Mua
+4,1: 离开 -> Roi di
+5,0: 购买 -> Mua
+5,1: 离开 -> Roi di
+6,0: 去 -> Di
+6,1: 不去 -> Khong di
+7,0: 夺剑 -> Doat kiem
+7,1: 劝说 -> Khuyen
+8,0: 按下 -> Bam
+8,1: 不按 -> Khong bam
+9,0: 听 -> Nghe
+9,1: 不听 -> Khong nghe
+10,0: 让坐 -> Cho ngoi
+10,1: 不让坐 -> Khong cho
+11,0: 接受 -> Nhan
+11,1: 不接受 -> Khong nhan
+12,0: 换 -> Doi
+12,1: 不换 -> Khong doi

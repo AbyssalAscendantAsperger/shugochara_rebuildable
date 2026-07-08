@@ -1,0 +1,108 @@
+0: 达奥斯 -> Daos
+1: 安达 -> Anda
+2: 哈巴罗尔 -> Habarol
+3: 克雷斯 -> Kres
+4: 拉拉 -> Lala
+5: 奇曼管家 -> Quan gia Qiman
+6: 雷兹 -> Rez
+7: 比特将军 -> Tuong Bit
+8: 小克里斯丁 -> Chris nho
+9: 敏特 -> Mint
+10: 凯丽 -> Kaily
+11: 达尔顿 -> Dalton
+12: 月玲 -> Nguyet Linh
+13: 达尔顿 -> Dalton
+14: 死神 -> Than chet
+15: 土地公 -> Tho dia
+16: 白晶晶 -> Bach Tinh Tinh
+17: 牛魔王 -> Nguu Ma Vuong
+18: -------------- -> --------------
+19: 伊米尔 -> Imir
+20: 蒂姆 -> Tim
+21: 特拉 -> Tera
+22: 海格 -> Haig
+23: 斯德 -> Sde
+24: 蒂法 -> Tifa
+25: 莉莉 -> Lily
+26: 玛丽 -> Mary
+27: 商人 -> Thuong nhan
+28: 胡地爷爷 -> Ong Hudi
+29: 老婆婆 -> Ba lao
+30: 鲁克 -> Luke
+31: 娜娜 -> Nana
+32: 异教徒巫师 -> Phu thuy giao phai
+33: ------------ -> ------------
+34: 奈尔 -> Nair
+35: 比比 -> Bibi
+36: 莎娜 -> Shana
+37: 温斯 -> Wens
+38: 野猪鲁斯 -> Heo rung Rus
+39: 小约翰 -> John nho
+40: 新人教官 -> HLV tan thu
+41: 休斯 -> Hughes
+42: 马丁 -> Martin
+43: 首领 -> Thu linh
+44: 狮子利昂 -> Su tu Leon
+45: 彩票商人 -> Nguoi ban ve so
+46: 小头目 -> Tieu dau muc
+47: 盗贼 -> Dao tac
+48: 衙役 -> Nha dich
+49: 马夫 -> Phu xe
+50: 铁匠老王头 -> Tho ren Wang
+51: 苏州青年 -> Thanh nien To Chau
+52: 小三 -> Tieu Tam
+53: 小二 -> Tieu Nhi
+54: 郭芙蓉 -> Guo Furong
+55: 商人 -> Thuong nhan
+56: 洗衣老妪 -> Ba lao giat do
+57: 狗 -> Cho
+58: 中年人 -> Trung nien
+59: 神秘商人 -> Thuong nhan la
+60: 老者 -> Lao gia
+61: 顾客 -> Khach
+62: 女顾客 -> Khach nu
+63: 杂货铺老板 -> Chu tiem tap hoa
+64: 客栈老板 -> Chu quan tro
+65: 佟香玉 -> Tong Xiangyu
+66: 游历僧人 -> Tang nhan du lich
+67: 西域人 -> Nguoi Tay Vuc
+68: 西域商人 -> Thuong nhan Tay Vuc
+69: 贸易商人 -> Thuong nhan
+70: 休息处老板 -> Chu cho nghi
+71: 龙门镇镇长 -> Truong tran Long Mon
+72: 马贼头领 -> Thu linh ma tac
+73: 马贼 -> Ma tac
+74: 大头领 -> Dai thu linh
+75: 副头领 -> Pho thu linh
+76: 黑衣人首领 -> Thu linh ao den
+77: 食人魔队长 -> Doi truong Ogre
+78: 叛军队长 -> Doi truong phan quan
+79: 叛军士兵 -> Linh phan quan
+80: 精灵 -> Tinh linh
+81: 恶狼 -> Soi ac
+82: 帝国士兵队长 -> Doi truong de quoc
+83: 无光之翼 -> Canh vo quang
+84: 瘟疫堕天使 -> Thien su dich benh
+85: 迷之怪物 -> Quai vat bi an
+86: 伯爵霍德尔 -> Ba tuoc Hodel
+87: 死灵法师 -> Phap su tu linh
+88: 史莱姆 -> Slime
+89: 铁匠 -> Tho ren
+90: 龙 -> Rong
+91: ———————— -> ————————
+92: 骸骨战士 -> Chien binh xuong
+93: 火焰巨龙 -> Rong lua
+94: 流氓盗贼 -> Dao tac luu manh
+95: 劫匪盗贼 -> Dao tac cuop
+96: 盗贼头目 -> Thu linh dao tac
+97:  -> Zhenjian
+98: 镇剑 -> Ma da
+99: 石魔 -> No le kiem
+100: 剑奴 -> content
+101: content -> content
+102: content -> content
+103: content -> content
+104: content -> content
+105: content -> content
+106: content -> content
+107: content -> Name107

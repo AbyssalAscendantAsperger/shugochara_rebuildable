@@ -30,7 +30,10 @@ mkdir -p "$JARROOT"
 echo "[1/6] Copy res + base_classes -> $JARROOT"
 cp -R res/. "$JARROOT/"
 cp -R base_classes/. "$JARROOT/"
-rm -f "$JARROOT"/bin/sct_vi*.bin "$JARROOT"/bin/sct_rebuilt*.bin "$JARROOT"/bin/sct_from*.bin 2>/dev/null || true
+rm -f "$JARROOT"/bin/sct_vi*.bin "$JARROOT"/bin/sct_rebuilt*.bin "$JARROOT"/bin/sct_from*.bin \
+      "$JARROOT"/bin/choice_v*.bin "$JARROOT"/bin/stg_v*.bin "$JARROOT"/bin/80_v*.bin \
+      "$JARROOT"/bin/*.v4bak "$JARROOT"/APISetting_v*.ini "$JARROOT"/APISetting.ini.v4bak \
+      "$JARROOT"/META-INF/MANIFEST_v*.MF "$JARROOT"/META-INF/MANIFEST.MF.v4bak 2>/dev/null || true
 
 echo "[2/6] Install SCT: $SCT_INPUT -> $JARROOT/bin/sct.bin"
 mkdir -p "$JARROOT/bin"
